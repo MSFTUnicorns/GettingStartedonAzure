@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./images/msft_unicorns" alt="GettingStartedonAzure" />
+  <img src="images/msft_unicorns" alt="GettingStartedonAzure" />
 
   &#xa0;
 
