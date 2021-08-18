@@ -41,7 +41,7 @@
 
 ## :dart: About ##
 
-Describe your project
+Welcome to the Unicorn Team - Getting Started on Azure Repo.  The objective of this repo is provide you with all the online resources and training content you need to get started on Azure
 
 <!--## :sparkles: Features ##
 
@@ -62,6 +62,7 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements ##
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed. -->
+## :school_satchel: Learning Azure ##
 
 ## :checkered_flag: Starting ##
 
