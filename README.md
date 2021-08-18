@@ -44,29 +44,11 @@
 Welcome to the Unicorn Team - Getting Started on Azure Repo.  The objective of this repo is provide you with all the online resources and training content you need to get started on Azure
 
 
-
-## :white_check_mark: Resources ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed. -->
 ## :school_satchel: Learning Azure ##
 
 ## :checkered_flag: Starting ##
 
-```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/gettingstartedonazure
-
-# Access
-$ cd gettingstartedonazure
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
+## :white_check_mark: Resources ##
 
 ## :memo: License ##
 
