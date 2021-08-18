@@ -46,17 +46,17 @@ Welcome to the Unicorn Team - Getting Started on Azure Repo.  The objective of t
 
 ## :school_satchel: Learning Azure ##
 
-| Item | Link                                                                                                                 | Relevant Roles | Content Format |
-|------|----------------------------------------------------------------------------------------------------------------------|----------------|----------------|
-| 1    | <a href="https//docs.microsoft.com/en-us/users/ruthbacci/collections/07yytwo1g66y17"> Getting Started with Azure</a> |                | MS Learn       |
-| 2    |                                                                                                                      |                |                |
-| 3    |                                                                                                                      |                |                |
-| 4    |                                                                                                                      |                |                |
-| 5    |                                                                                                                      |                |                |
-| 6    |                                                                                                                      |                |                |
-| 7    |                                                                                                                      |                |                |
-|      |                                                                                                                      |                |                |
-|      |                                                                                                                      |                |                |
+| Item | Link                                                                                                                 | Relevant Roles | Content Format                     |
+|------|----------------------------------------------------------------------------------------------------------------------|----------------|------------------------------------|
+| 1    | <a href="https//docs.microsoft.com/en-us/users/ruthbacci/collections/07yytwo1g66y17"> Getting Started with Azure</a> | All            | MS Learn custom learning path      |
+| 2    | <a href="https//docs.microsoft.com/en-us/users/ruthbacci/collections/xgxxfk3pjznw5d"> Azure Infra</a>                | Infra/SRE      | MS Learn custom learning path      |
+| 3    | <a href="https//docs.microsoft.com/en-us/users/ruthbacci/collections/w488ip1zrjq83e"> Azure Design</a>               | Architect      | MS Learn custom learning path      |
+| 4    | <a href="https//docs.microsoft.com/en-us/users/ruthbacci/collections/w488ip1zrjq83e"> Azure Design</a>               |                | MS Learn custom learning path      |
+| 5    | <a href="https//docs.microsoft.com/en-us/users/ruthbacci/collections/w488ip1zrjq83e"> Azure Design</a>               |                | MS Learn custom learning path      |
+| 6    | <a href="https//docs.microsoft.com/en-us/users/ruthbacci/collections/w488ip1zrjq83e"> Azure Design</a>               |                |                                    |
+| 7    |                                                                                                                      |                |                                    |
+|      |                                                                                                                      |                |                                    |
+|      |                                                                                                                      |                |                                    |
 
 ## :checkered_flag: Starting ##
 
