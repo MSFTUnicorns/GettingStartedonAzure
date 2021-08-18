@@ -31,7 +31,7 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Learning Azure</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Starting</a> &#xa0; | &#xa0;
-  <!--<a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0; -->
+  <a href="#white_check_mark-requirements">Resources</a> &#xa0; | &#xa0;
  <!-- > <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0; -->
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
 
@@ -43,23 +43,9 @@
 
 Welcome to the Unicorn Team - Getting Started on Azure Repo.  The objective of this repo is provide you with all the online resources and training content you need to get started on Azure
 
-<!--## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
 
-## :rocket: Technologies ##
-
-The following tools were used in this project:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-## :white_check_mark: Requirements ##
+## :white_check_mark: Resources ##
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed. -->
 ## :school_satchel: Learning Azure ##
