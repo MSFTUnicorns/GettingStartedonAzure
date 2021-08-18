@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="images/bit_unicorns.png" alt="GettingStartedonAzure" />
+  <img src="images/bit_unicorn.png" alt="GettingStartedonAzure" />
 
   &#xa0;
 
