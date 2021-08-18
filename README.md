@@ -46,6 +46,19 @@ Welcome to the Unicorn Team - Getting Started on Azure Repo.  The objective of t
 
 ## :school_satchel: Learning Azure ##
 
+| Item | Description                | Link                                                                        | Format   |
+|------|----------------------------|-----------------------------------------------------------------------------|----------|
+| 1    | Getting Started with Azure | https://docs.microsoft.com/en-us/users/ruthbacci/collections/07yytwo1g66y17 | MS Learn |
+| 2    |                            |                                                                             |          |
+| 3    |                            |                                                                             |          |
+| 4    |                            |                                                                             |          |
+| 5    |                            |                                                                             |          |
+| 6    |                            |                                                                             |          |
+| 7    |                            |                                                                             |          |
+|      |                            |                                                                             |          |
+|      |                            |                                                                             |          |
+
+
 ## :checkered_flag: Starting ##
 
 ## :white_check_mark: Resources ##
