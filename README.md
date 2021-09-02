@@ -53,8 +53,7 @@ Welcome to the Unicorn Team - Getting Started on Azure Repo.  The objective of t
 | 3    | <a href="https://docs.microsoft.com/en-gb/users/ruthbacci/collections/w488ip1zrjq83e"> Azure Design</a>               | Architect      | MS Learn custom learning path      |
 | 4    | <a href="https://docs.microsoft.com/en-gb/users/ruthbacci/collections/ng77f52jqd3e8p"> Azure App Platform</a>               |   Devs             | MS Learn custom learning path      |
 | 5    | <a href="https://docs.microsoft.com/en-gb/users/ruthbacci/collections/d4jjiey1dkyew8"> Microsoft DevOps Capabilities</a>               |        Devs/SREs        | MS Learn custom learning path      |
-| 6    | <a href="https://docs.microsoft.com/en-gb/users/ruthbacci/collections/d4jjiey1dk72nq"> Service Management and SecOps for Unicorns
-</a>|     Service Managers/SREs           |   MS Learn custom learning path                                   |
+| 6    | <a href="https://docs.microsoft.com/en-gb/users/ruthbacci/collections/d4jjiey1dk72nq"> Service Management and SecOps for Unicorns</a>| Service Managers/SREs| MS Learn custom learning path                                   |
 | 7    |                                                                                                                      |                |                                    |
 |      |                                                                                                                      |                |                                    |
 |      |                                                                                                                      |                |                                    |
